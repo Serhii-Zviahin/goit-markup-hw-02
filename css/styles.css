@@ -1,16 +1,50 @@
 body {
   background-color: #ffffff;
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #2e2f42;
+}
+.main-nav .link-logo {
+  list-style-type: none;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+.main-nav .main-nav-list {
+  text-decoration: none;
+  list-style-type: none;
+}
+.main-nav .studio-link {
+  text-decoration: none;
+}
+.main-nav .studio-link:hover {
+  color: #404bbf;
+}
+.main-nav .studio-link:focus {
+  color: #404bbf;
 }
 .main-nav .link {
   text-decoration: none;
 }
-.main-nav a {
-  list-style-type: none;
+.main-nav .link:hover {
+  color: #404bbf;
+}
+.main-nav .link:focus {
+  color: #404bbf;
+}
+.contact-info .contact-link {
+  font-style: normal;
+  color: #434455;
   text-decoration: none;
 }
-address a {
+.contact-info .contact-link:hover {
+  font-style: normal;
+  color: #404bbf;
+}
+.contact-info .contact-link:focus {
+  font-style: normal;
+  color: #404bbf;
+}
+.contact-info-list {
   list-style-type: none;
   text-decoration: none;
 }
@@ -23,6 +57,22 @@ address a {
 .our-portfolio-list {
   list-style-type: none;
 }
-footer a {
+.footer .footer-link {
   text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+.button-solutions {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.button-solutions:hover {
+  text-decoration: none;
+  background-color: #404bbf;
+}
+.button-solutions:focus {
+  text-decoration: none;
+  background-color: #404bbf;
 }
