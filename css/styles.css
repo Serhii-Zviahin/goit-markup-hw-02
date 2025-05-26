@@ -1,0 +1,28 @@
+body {
+  background-color: #ffffff;
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #2e2f42;
+}
+.main-nav .link {
+  text-decoration: none;
+}
+.main-nav a {
+  list-style-type: none;
+  text-decoration: none;
+}
+address a {
+  list-style-type: none;
+  text-decoration: none;
+}
+.features {
+  list-style-type: none;
+}
+.our-team-list {
+  list-style-type: none;
+}
+.our-portfolio-list {
+  list-style-type: none;
+}
+footer a {
+  text-decoration: none;
+}
