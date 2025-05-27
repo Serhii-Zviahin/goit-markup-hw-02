@@ -22,16 +22,6 @@ body {
   list-style-type: none;
   line-height: 1.5;
 }
-.main-nav .studio-link {
-  text-decoration: none;
-  color: #434455;
-}
-.main-nav .studio-link:hover {
-  color: #404bbf;
-}
-.main-nav .studio-link:focus {
-  color: #404bbf;
-}
 .main-nav .link {
   text-decoration: none;
   color: #434455;
