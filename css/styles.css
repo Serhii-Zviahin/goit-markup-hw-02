@@ -8,13 +8,20 @@ body {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
+  font-size: 18px;
+  color: #4d5ae5;
+}
+.main-nav .text-studio-logo {
+  color: #2e2f42;
 }
 .main-nav .main-nav-list {
   text-decoration: none;
   list-style-type: none;
+  line-height: 1.5;
 }
 .main-nav .studio-link {
   text-decoration: none;
+  color: #434455;
 }
 .main-nav .studio-link:hover {
   color: #404bbf;
@@ -24,6 +31,7 @@ body {
 }
 .main-nav .link {
   text-decoration: none;
+  color: #434455;
 }
 .main-nav .link:hover {
   color: #404bbf;
@@ -47,26 +55,72 @@ body {
 .contact-info-list {
   list-style-type: none;
   text-decoration: none;
+  line-height: 1.5;
+}
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.071428571428571;
 }
 .features {
   list-style-type: none;
 }
+.title-features {
+  font-size: 20px;
+  line-height: 1.2;
+}
+.text-features {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.title-team {
+  font-size: 36px;
+  line-height: 1.1;
+}
 .our-team-list {
   list-style-type: none;
 }
+.team-names {
+  font-size: 20px;
+  line-height: 1.2;
+}
+.team-specialization {
+  line-height: 1.5;
+}
+.title-portfolio {
+  font-size: 36px;
+  line-height: 1.1;
+}
 .our-portfolio-list {
   list-style-type: none;
+}
+.projects-name {
+  font-size: 20px;
+  line-height: 1.2;
+}
+.projects-type {
+  line-height: 1.5;
 }
 .footer .footer-link {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
+  font-size: 18px;
+  color: #4d5ae5;
+}
+.footer .text-studio-logo {
+  color: #f4f4fd;
+}
+.footer .footer-text {
+  font-size: 16px;
+  line-height: 1.5;
 }
 .button-solutions {
   text-decoration: none;
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
+  line-height: 1.5;
 }
 .button-solutions:hover {
   text-decoration: none;
