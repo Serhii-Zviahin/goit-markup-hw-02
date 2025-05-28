@@ -97,7 +97,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section-team {
+.section-three-team {
   background-color: #f4f4fd;
 }
 .title-team {
@@ -114,7 +114,7 @@ body {
 .team-member {
   background-color: #ffffff;
 }
-.team-names {
+.section-three-team .team-names {
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
